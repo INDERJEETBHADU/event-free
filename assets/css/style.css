@@ -470,7 +470,6 @@ h1 {
   font-family: "poppins", sans-serif;
   font-size: 14px;
   font-weight: 400;
-  margin-left: 20px;
 }
 .head4 {
   color: #000;
@@ -1174,7 +1173,6 @@ input[type="checkbox"]:checked + .mobile-view {
   }
   .date {
     font-size: 14px;
-    margin-left: 20px;
   }
   .head4 {
     font-size: 24px;
